@@ -1,1 +1,2 @@
-# amsu
+#Front-end technology
+Front-end technologies are becoming more and more important in today’s project and product development. In addition to product features, the user experience is also one of the criteria to test the success of a product. All that depends on the implementation of the front-end technology, soyou need to master some basic front-end technologies such as HTML5, CSS3, JavaScript, and further study the front-end frameworks or third-party libraries such as JQuery, LESS, SASS, AngularJS, or REACT.
